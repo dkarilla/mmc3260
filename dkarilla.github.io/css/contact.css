@@ -89,3 +89,21 @@ footer a:hover, nav a:active {
     color:#DDBAE8;
     text-decoration:underline;
 }
+
+@media screen and (max-width:600px) {
+    body {
+        padding: 5%;
+    }
+    h1,h2 {
+        text-align: center;
+    }
+ nav {
+        text-align:center;
+    }
+   p {
+        clear: left;
+        margin-left: 0;
+        width: 100%;
+         
+    }
+}
