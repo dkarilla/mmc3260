@@ -24,7 +24,7 @@ p {
 
 @media screen and (max-width:600px) {
     body {
-        padding: 3%;
+        padding: 5%;
     }
     h1,h2 {
         text-align: center;
@@ -34,6 +34,7 @@ p {
         clear: left;
         margin-left: 0;
         width: 100%;
+         
     }
 }
 
